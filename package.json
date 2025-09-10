@@ -47,7 +47,7 @@
   "jest": {
     "preset": "react-native"
   },
-  "name": "3insysRNDemo",
+  "name": "3insys_rn_demo",
   "private": true,
   "scripts": {
     "android": "react-native run-android",

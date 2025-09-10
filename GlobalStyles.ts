@@ -19,6 +19,7 @@ export const Color = {
   colorMintcream: "#f6fef9",
   colorDarkslategray: "rgba(73, 74, 77, 0.11)",
   colorGray: "rgba(0, 31, 63, 0.04)",
+  colorRed: "#f10c0c",
   colorWhitesmoke300: "#f3f3f3",
   colorWhitesmoke200: "#f5f5f5",
   colorWhitesmoke100: "#f8f9fb",
@@ -39,6 +40,7 @@ export const Gap = {
   gap_4: 4,
   gap_6: 6,
   gap_8: 8,
+  gap_12: 12,
   gap_24: 24,
 };
 /* Paddings */
@@ -56,6 +58,7 @@ export const Border = {
   br_4: 4,
   br_8: 8,
   br_16: 16,
+  br_20: 20,
   br_32: 32,
   br_100: 100,
 };
